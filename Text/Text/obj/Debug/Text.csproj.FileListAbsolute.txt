@@ -1,0 +1,14 @@
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\bin\Debug\Text.exe.config
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\bin\Debug\Text.exe
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\bin\Debug\Text.pdb
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\obj\Debug\Text.csproj.AssemblyReference.cache
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\obj\Debug\MainWindow.g.cs
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\obj\Debug\App.g.cs
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\obj\Debug\Text_MarkupCompile.cache
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\obj\Debug\MainWindow.baml
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\obj\Debug\Text.g.resources
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\obj\Debug\Text.Properties.Resources.resources
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\obj\Debug\Text.csproj.GenerateResource.cache
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\obj\Debug\Text.exe
+C:\Users\Dam2\source\repos\TextEditor\Text\Text\obj\Debug\Text.pdb
